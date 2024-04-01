@@ -1,5 +1,5 @@
 from djongo import models
-from ..manhdat.models import *
+from manhdat.models import *
 
 # Create your models here.
 class DieuKhien(models.Model):
